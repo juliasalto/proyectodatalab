@@ -12,11 +12,11 @@
   
 - Enlaces de interés:
     - [Dashboard en Looker Studio](https://lookerstudio.google.com/reporting/21438022-ef43-420d-aa06-136ce039225d)
-    - [Presentación](https://drive.google.com/file/d/1iQAQyOKpjVbo8Yeg9dxmHpz1fC0QLpqJ/view?usp=sharing)
-    - [Video presentación](https://www.loom.com/share/0095f77fe38449ec986abeee3a325b61?sid=8bfb6605-30bc-4737-bfd0-67180077c661)
+    - [Presentación](https://drive.google.com/file/d/1malHavrXZOhQLmDyCJk6ljDLT1sa7a_-/view?usp=sharing)
+    - [Video presentación](https://www.loom.com/share/4e4f6a0cf9494808960edc62de21d14c?sid=87425565-42c4-4616-8b2a-4ee641da8dc9)
  
 - **Objetivo:**
-    - A
+    - A partir del conjunto de datos buscamos hacer un análisis general por un lado, y uno más detallado por otro, que ayude a entender cómo obtener y potenciar la información que el mismo trae. 
     - Se pretende obtener las respuestas para validar o refutar las siguientes hipótesis:
         - *A mayor número de valoraciones de un producto, éste obtiene mejor calificación.*
         - *A mayor porcentaje de descuento en su precio de venta, éste obtiene mejor calificación.*
